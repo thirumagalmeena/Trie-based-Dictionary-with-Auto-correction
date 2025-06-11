@@ -76,7 +76,6 @@ streamlit run app.py
 ---
 
 ## Contributor
-
-- **Thirumagal Meena A ** 
-  Applied Mathematics and Computational Sciences
-  Psg College of Technology
+**Thirumagal Meena A**  
+Applied Mathematics and Computational Sciences  
+Psg College of Technology  
